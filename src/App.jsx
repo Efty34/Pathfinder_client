@@ -91,7 +91,7 @@ function App() {
       <div className="fixed inset-0 bg-gray-800 flex items-center justify-center">
         <div className="text-center animate-pulse">
           <h1 className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-primary to-teal-primary">
-            RoadmapAI
+            Pathfinder.ai
           </h1>
           <p className="text-teal-light mt-2">Your journey starts here</p>
         </div>
