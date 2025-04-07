@@ -3,7 +3,7 @@
 
 # Pathfinder.ai 🚀
 
-**`Pathfinder.ai`** is an intelligent career roadmap generator built with React. Just type in a career topic like "Backend Development", and Pathfinder.ai will generate a comprehensive learning path — including prerequisites, tools, key concepts, goals, and milestones — to guide you step-by-step on your journey.
+**`Pathfinder.ai`** is an intelligent career roadmap generator built with Node & React. Just type in a career topic like "Backend Development", and Pathfinder.ai will generate a comprehensive learning path — including prerequisites, tools, key concepts, goals, and milestones — to guide you step-by-step on your journey.
 
 # Backend Repo - [Efty34/Pathfinder_server](https://github.com/Efty34/Pathfinder_server)
 
